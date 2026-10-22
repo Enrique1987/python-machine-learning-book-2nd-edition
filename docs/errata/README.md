@@ -142,7 +142,7 @@ There's been a mix-up, the epsilon and the 0.25 should be swapped
 
 pg. 283
 
-The documentation of `joblib` has recently moved to a new webpage and previous address (http://pythonhosted.org/joblib/) is no longer valid. The new web address for the documentation is https://joblib.readthedocs.io.
+The former documentation address (`http://pythonhosted.org/joblib/`) is no longer valid. Use the [current Joblib documentation](https://joblib.readthedocs.io/en/stable/).
 
 pg. 340
 

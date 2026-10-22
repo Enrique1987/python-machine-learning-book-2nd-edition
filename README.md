@@ -1,6 +1,6 @@
 ## Python Machine Learning (2nd Ed.) Code Repository
 
-[![Build Status](https://travis-ci.com/rasbt/python-machine-learning-book-2nd-edition.svg?token=zvSsJVLJFKzB2yqaeKN1&branch=master)](https://travis-ci.com/rasbt/python-machine-learning-book-2nd-edition)
+The legacy Travis CI badge has been retired; it no longer reports build status.
 ![Python 3.6](https://img.shields.io/badge/Python-3.6-blue.svg)
 ![License](https://img.shields.io/badge/Code%20License-MIT-blue.svg)
 
